@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bienvenida">Hi, Welcome</string>
+    <string name="lugar">Place</string>
+    <string name="imagRef">Image Reference</string>
+    <string name="latLong">Latitude, Longitude</string>
+    <string name="orden">Order</string>
+    <string name="costoAlojamiento">Accomodation Costs</string>
+    <string name="costoTraslado">Transfer Costs</string>
+    <string name="comentarios">Comments</string>
+    <string name="guardar">Save</string>
+    <string name="costoNoche">Cost per Night</string>
+    <string name="traslado">Transfer</string>
+</resources>

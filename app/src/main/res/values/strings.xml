@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Examen_Mobile_CJL</string>
+    <string name="title_activity_agregar_lugar" translatable="false">AgregarLugar</string>
+    <string name="title_activity_detalle_lugar" translatable="false">DetalleLugar</string>
+    <string name="bienvenida">Hola Bienvenidos</string>
+    <string name="lugar">Lugar</string>
+    <string name="imagRef">Imagen Referencia</string>
+    <string name="latLong">Latitud, Longitud</string>
+    <string name="orden">Orden</string>
+    <string name="costoAlojamiento">Costo Alojamiento</string>
+    <string name="costoTraslado">Costo Traslados</string>
+    <string name="comentarios">Comentarios</string>
+    <string name="guardar">Guardar</string>
+    <string name="costoNoche">Costo por Noche</string>
+    <string name="traslado">Traslado</string>
+</resources>
